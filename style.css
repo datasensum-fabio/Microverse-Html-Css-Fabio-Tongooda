@@ -1,3 +1,15 @@
 h2{
     color:red
 }
+
+#title{
+    text-align: center;
+}
+
+#img-div{
+    text-align: center;
+}
+
+.foto{
+    max-width: 70%;
+}
