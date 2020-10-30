@@ -12,4 +12,38 @@ h2{
 
 .foto{
     max-width: 50%;
+    
 }
+
+#main{
+    text-align: center;
+
+}
+
+body{
+    background-color:lightgray;
+}
+
+p{
+    max-width: 50%;
+    text-align: center;
+    margin: auto;
+
+
+
+}
+
+@media only screen and (max-width: 600px) {
+    .foto {
+      max-width: 90%;
+    }
+
+    p{
+        max-width: 75%;
+        margin: auto;
+
+
+    }
+
+
+  }
